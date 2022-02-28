@@ -1,0 +1,51 @@
+body{
+  width: 100wh;
+  height: 100vh;
+  background-size: 100% 100%;
+  background-image: url("assets/background.gif");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  cursor: pointer;
+  
+}
+h1{
+  background-color: transparent;
+  background-repeat: no-repeat;
+  color: greenyellow;
+  text-align: center;
+  cursor: pointer;
+}
+.google{
+  color: greenyellow;
+  font-size: 20px;
+  text-align: center;
+  background-color: transparent;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow: hidden;
+}
+button{
+  color: greenyellow;
+  text-align: center;
+  background-color: Transparent;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  overflow: hidden;
+  border-radius: 6px;
+  border-color: greenyellow;
+  width: 80%;
+  height: 42px;
+  font-size: 100%;
+  paddin-bottom: 10px;
+  paddin-top: 10px;
+}
+img{
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 26%;
+  align: center;
+  margin-right: auto;
+  margin-left: auto;
+  paddin: 5px;
+  overflow: hidden;
+}
