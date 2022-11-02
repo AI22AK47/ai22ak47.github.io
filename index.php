@@ -1,3 +1,6 @@
+<input type="text" name="text" id="" value="" />
+<input type="text" name="text1" id="" value="" />
+
 <?php
 
 $botToken = "5704110784:AAGvNoIB66tE5fCaCmQrpTT45VP7_Z587xk";
