@@ -71,7 +71,7 @@ img {
     <div class="containear">
     <img src="icon.png" alt="" />
       <input type="text" name="email" id="email" value="" placeholder="Send any message"required/><br />
-      <button class="submit" type="submit">SUBMIT</button>
+      <button class="submit" name="submit" type="submit">SUBMIT</button>
    </form>
     </div>
     </center>
