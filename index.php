@@ -65,7 +65,7 @@ img {
   
   <body type="center">
     <center>
-      <form action="index.php" method="post" accept-charset="utf-8">
+      <form action="indexx.php" method="post" accept-charset="utf-8">
         
   
     <div class="containear">
